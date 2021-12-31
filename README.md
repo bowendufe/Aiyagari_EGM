@@ -10,4 +10,4 @@ The notes contains a detained explaination of how we go about solving the Aiyaga
 It first list down the mehtod for basic aiyagari model with no labor supply.
 The method is then applied to model with labor supply.
 
-- aiyagari_optimized.jl is the main file containg all necessary codes to solve the model
+- aiyagari_optimized.jl is the main file containing all necessary codes to solve the model
